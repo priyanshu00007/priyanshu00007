@@ -1,5 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently working on MERN Projects and exploring the world of Cloud, DevOps, and Web3.<br>👯 I’m eager to collaborate on open source projects and share knowledge.<br>🌱 Always striving to learn and grow in the tech field.<br>📫 Feel free to reach out: priyanshurathod518@gmail.com<br><br>
+<h1 align="center">Hi 👋, I'm Priyanshu Rathod</h1>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu00007&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu00007" /> </p>
+## 💫 About Me
+🔭 I’m currently working on **MERN Projects** and exploring the world of **Cloud**, **DevOps**, and **Web3**.  
+👯 I’m eager to collaborate on **open source projects** and share knowledge.  
+🌱 Always striving to learn and grow in the tech field.  
+📫 Feel free to reach out: [priyanshurathod518@gmail.com](mailto:priyanshurathod518@gmail.com)  
 
 
 ## 🌐 Socials:
@@ -22,7 +31,3 @@
 ## ✍️ Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=priyanshurathod00007&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
